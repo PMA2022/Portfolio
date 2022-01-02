@@ -8,7 +8,7 @@ title: "Robotics Page"
 
 Here are some projects from high school.
 
-[![IMAGE ALT TEXT HERE](/images/2020robot.jpg)](pma2022.netlify.app/en/post/robotics2020/)
+[![IMAGE ALT TEXT HERE](/images/2020robot.jpg)](https://pma2022.netlify.app/en/post/robotics2020/)
 2020 robot for robotics. 
 
 
@@ -16,6 +16,6 @@ Here are some projects from high school.
 
 
 
-[![IMAGE ALT TEXT HERE](/images/jesrobot.jpg)](pma2022.netlify.app/en/post/robotics2021/)
+[![IMAGE ALT TEXT HERE](/images/jesrobot.jpg)](https://pma2022.netlify.app/en/post/robotics2021/)
 Our 2021 robot for the FRC competition. 
 
