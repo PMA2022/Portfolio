@@ -3,7 +3,7 @@ date: 2021-03-05T11:25:05-04:00
 description: ""
 featured_image: "/images/jesuit.jpg"
 tags: []
-title: "High School Education"
+title: "Photos over the years"
 disable_share: false
 ---
 # Photos!
